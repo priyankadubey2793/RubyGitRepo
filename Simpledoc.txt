@@ -1,6 +1,6 @@
 This doucment is to check Git.!!!!!
 This is the change in this file!!!!!!
 
-there is another change!!!!
+there is another --change!!!!
 
-There is a change n this file
+There is a change n this --file
