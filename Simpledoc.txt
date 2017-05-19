@@ -1,6 +1,12 @@
 This doucment is to check Git.!!!!!
 This is the change in this file!!!!!!
 
+<<<<<<< HEAD
 there is another --change!!!!
 
 There is a change n this --file
+=======
+there is another :-change!!!!
+
+There is a change n this :-file
+>>>>>>> bug123
